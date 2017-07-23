@@ -1,7 +1,5 @@
-theme: jekyll-theme-cayman
+theme: minima
 title: hello blogpost
 description: this is fancy description
-twitter:
-  username: MatyjaKuba
 gems:
   - jekyll-sitemap
