@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: hello blogpost
 description: this is fancy description
-show_downloads: false
-
+twitter:
+  username: MatyjaKuba
+gems:
+  - jekyll-sitemap
